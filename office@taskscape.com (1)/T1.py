@@ -1,4 +1,9 @@
 # Databricks notebook source
+# MAGIC %md
+# MAGIC ## Intro
+
+# COMMAND ----------
+
 # MAGIC %scala
 # MAGIC 
 # MAGIC Class.forName("org.apache.spark.sql.eventhubs.EventHubsSource")
