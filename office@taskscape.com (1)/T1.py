@@ -4,6 +4,11 @@
 
 # COMMAND ----------
 
+# MAGIC %md 
+# MAGIC ### Intro 2
+
+# COMMAND ----------
+
 # MAGIC %scala
 # MAGIC 
 # MAGIC Class.forName("org.apache.spark.sql.eventhubs.EventHubsSource")
